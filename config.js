@@ -18,7 +18,7 @@ global.APIKeys = {
 // Other
 global.Prefix = 'Multi'
 global.modelMenu = 'locButton'
-global.owner = ['6289503657396']
+global.owner = ['6283119967529']
 global.premium = ['6289503657396']
 global.meki = '6289503657396'
 global.ownerNumber = '6289503657396'
